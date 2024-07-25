@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=joueur
+comment1.params=
+comment1.target=joueur()
+comment2.params=g
+comment2.target=void\ UP(double)
+comment3.params=g
+comment3.target=void\ DOWN(double)
+comment4.params=Dim
+comment4.target=javafx.beans.property.SimpleDoubleProperty\ get(java.lang.String)
+comment5.params=Dim
+comment5.target=double\ getValue(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getSkin()
+comment7.params=
+comment7.target=double\ getDimension()
+numComments=8

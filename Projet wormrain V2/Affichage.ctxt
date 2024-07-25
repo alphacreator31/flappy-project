@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Affichage
+comment1.params=iV\ s\ g
+comment1.target=void\ configBackground(javafx.scene.image.ImageView,\ javafx.scene.Scene,\ javafx.scene.Group)
+comment2.params=iV\ LRatio\ HRatio\ hGX\ hGY
+comment2.target=void\ configurer(javafx.scene.image.ImageView,\ double,\ double,\ javafx.beans.property.SimpleDoubleProperty,\ javafx.beans.property.SimpleDoubleProperty)
+numComments=3

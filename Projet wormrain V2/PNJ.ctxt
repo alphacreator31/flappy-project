@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PNJ
+comment1.params=
+comment1.target=PNJ()
+comment2.params=g
+comment2.target=void\ LEFT(double)
+comment3.params=
+comment3.target=java.lang.String\ getImage()
+comment4.params=
+comment4.target=javafx.beans.property.SimpleDoubleProperty\ getX()
+comment5.params=
+comment5.target=javafx.beans.property.SimpleDoubleProperty\ getY()
+numComments=6
